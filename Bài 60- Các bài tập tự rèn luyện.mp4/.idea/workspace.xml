@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13beb382-2e6d-4ff9-b5ab-8e03f8b5bf38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VcTzeh3XDK2CRDaEqJica0E03w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Bài 60- Các bài tập tự rèn luyện.mp4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Bài 60- Các bài tập tự rèn luyện.mp4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bài 60- Các bài tập tự rèn luyện.mp4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Bài 60- Các bài tập tự rèn luyện.mp4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13beb382-2e6d-4ff9-b5ab-8e03f8b5bf38" name="Default Changelist" comment="" />
+      <created>1577551646567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577551646567</updated>
+      <workItem from="1577551647957" duration="2279000" />
+      <workItem from="1577583341096" duration="1186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1481" height="202" key="GridCell.Tab.0.bottom" timestamp="1577584536120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="202" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577584536120" />
+    <state width="1481" height="202" key="GridCell.Tab.0.center" timestamp="1577584536120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="202" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577584536120" />
+    <state width="1481" height="202" key="GridCell.Tab.0.left" timestamp="1577584536120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="202" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577584536120" />
+    <state width="1481" height="202" key="GridCell.Tab.0.right" timestamp="1577584536120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="202" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577584536120" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bài_60__Các_bài_tp_t_rèn_luyn_mp4$Bài_60__Các_bài_tp_t_rèn_luyn_mp4.coverage" NAME="Bài 60- Các bài tập tự rèn luyện.mp4 Coverage Results" MODIFIED="1577584093064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

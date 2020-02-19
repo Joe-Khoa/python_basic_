@@ -1,0 +1,1 @@
+# function : LIFO - LastInFirstOut

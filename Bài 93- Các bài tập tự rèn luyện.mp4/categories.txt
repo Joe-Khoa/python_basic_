@@ -1,0 +1,6 @@
+1,iphone
+2,ipad
+3,macbook
+4,imac
+5,macmini
+6,apple 
